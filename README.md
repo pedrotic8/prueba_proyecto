@@ -1,3 +1,3 @@
 # Prueba de Proyecto
-## Introduciión
+## Introdución
 En este documento estarán los pasos a seguir....
